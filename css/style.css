@@ -1,0 +1,32 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	color: #fff;
+}
+body{
+       background-image:url(../image/bz.jpg) ;
+       background-size:cover;
+       background-position:100%;
+       background-attachment: fixed;
+    }
+html{
+        width: 100%;
+        height: 100%;
+    }
+h1,li{
+	text-align: center;
+	margin-top: 35px;
+}
+ol{
+	margin-bottom:20px;
+}
+
+.bottom{
+	width:100%;
+	height:20px;
+	position:fixed;
+	bottom: 20px;
+	font-size:12px;
+	text-align: center;
+	color: #d0d0d0;
+}
